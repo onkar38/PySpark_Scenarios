@@ -1,0 +1,16 @@
+# Dataset — generate locally with om.py
+pyspark_scenarios/
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
